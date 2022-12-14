@@ -1,0 +1,5 @@
+yadisk
+openpyxl
+BeautifulSoup4
+aiogram
+asynco
